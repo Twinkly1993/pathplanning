@@ -1,0 +1,8 @@
+   <launch>
+   
+     <group ns="test">
+       <node pkg="test" name="agent" type="agent_node"/>
+     </group> 
+      
+   
+   </launch>

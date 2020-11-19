@@ -1,0 +1,6 @@
+   <launch>
+   
+     <group ns="agent_1">
+       <node pkg="agent" name="sim" type="agent_node"/>
+    
+   </launch>
